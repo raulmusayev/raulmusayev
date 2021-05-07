@@ -6,10 +6,10 @@
 ![Sass](https://img.shields.io/badge/SASS-purple)
 ![Bootstrap](https://img.shields.io/badge/BootStrap-blueviolet)
 ![TailwindCss](https://img.shields.io/badge/TailwindCSS-#39B2AC)
-![JQuery]((https://img.shields.io/badge/Jquery-#0869AD);
+![JQuery]((https://img.shields.io/badge/Jquery-#000)
 ![Laravel](https://img.shields.io/badge/Jquery-red)
-![MySql](https://img.shields.io/badge/MYSQL-black);
-![MongoDB](https://img.shields.io/badge/MongoDB-green);
+![MySql](https://img.shields.io/badge/MYSQL-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 
 <ul>
