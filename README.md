@@ -5,11 +5,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e)
 ![Sass](https://img.shields.io/badge/Sass-cf649a)
 
-👋 Hi, I’m Raul Musayev from Azerbaijan
-👀 I’m interested in web developing / cyber security
-🌟 I love improving my self
-🌱 currently i’m improving myself on laravel and other php frameworks
-📫 Reach me on instagram : @raulmsyv
+💻 I've been learning HTML, CSS and JavaScript for a while.
+💪 I want to improve myself on the front-end technologies.
 
-
-  
